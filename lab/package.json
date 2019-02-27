@@ -1,0 +1,14 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "level-1.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "Hal Helms",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
